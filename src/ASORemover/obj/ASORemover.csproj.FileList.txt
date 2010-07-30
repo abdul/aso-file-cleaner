@@ -1,0 +1,5 @@
+obj\Debug\ASORemover.exe
+obj\Debug\ASORemover.pdb
+bin\Debug\ASORemover.exe
+bin\Debug\ASORemover.pdb
+obj\Debug\ResolveAssemblyReference.cache

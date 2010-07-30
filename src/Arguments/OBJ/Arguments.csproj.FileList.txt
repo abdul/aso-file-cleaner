@@ -1,0 +1,8 @@
+bin\Debug\Arguments.dll
+bin\Debug\Arguments.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Arguments.dll
+obj\Debug\Arguments.pdb
+bin\Release\Arguments.dll
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Arguments.dll

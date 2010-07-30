@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual C# Express 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASORemover", "ASORemover\ASORemover.csproj", "{4EFF9FDA-25A3-4B18-BBAA-9C1CBDD88A18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arguments", "Arguments\Arguments.csproj", "{8F209BBB-B2E0-4001-9A01-AA00A8FB6715}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Setup Build|Any CPU = Setup Build|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EFF9FDA-25A3-4B18-BBAA-9C1CBDD88A18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EFF9FDA-25A3-4B18-BBAA-9C1CBDD88A18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EFF9FDA-25A3-4B18-BBAA-9C1CBDD88A18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EFF9FDA-25A3-4B18-BBAA-9C1CBDD88A18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EFF9FDA-25A3-4B18-BBAA-9C1CBDD88A18}.Setup Build|Any CPU.ActiveCfg = Release|Any CPU
+		{4EFF9FDA-25A3-4B18-BBAA-9C1CBDD88A18}.Setup Build|Any CPU.Build.0 = Release|Any CPU
+		{8F209BBB-B2E0-4001-9A01-AA00A8FB6715}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F209BBB-B2E0-4001-9A01-AA00A8FB6715}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F209BBB-B2E0-4001-9A01-AA00A8FB6715}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F209BBB-B2E0-4001-9A01-AA00A8FB6715}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F209BBB-B2E0-4001-9A01-AA00A8FB6715}.Setup Build|Any CPU.ActiveCfg = Setup Build|Any CPU
+		{8F209BBB-B2E0-4001-9A01-AA00A8FB6715}.Setup Build|Any CPU.Build.0 = Setup Build|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

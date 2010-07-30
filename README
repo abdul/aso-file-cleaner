@@ -1,0 +1,1 @@
+ASO files are cache files, which are created by ActionScript compiler in Adobe Flash Authoring tool. Sometimes ASO files cause problem such as: latest code is not being compiled instead cached version is used.ASO File Cleaner is a C# (.Net) program that deletes aso files.
